@@ -1,0 +1,17 @@
+code --install-extension aaron-bond.better-comments --profile Minimal
+code --install-extension andrewberty.noir-theme-bundle --profile Minimal
+code --install-extension angular.ng-template --profile Minimal
+code --install-extension be5invis.vscode-custom-css --profile Minimal
+code --install-extension denoland.vscode-deno --profile Minimal
+code --install-extension esbenp.prettier-vscode --profile Minimal
+code --install-extension formulahendry.auto-rename-tag --profile Minimal
+code --install-extension github.copilot --profile Minimal
+code --install-extension github.copilot-chat --profile Minimal
+code --install-extension maattdd.gitless --profile Minimal
+code --install-extension streetsidesoftware.code-spell-checker --profile Minimal
+code --install-extension sulsami.rose-pine-burnt --profile Minimal
+code --install-extension tyriar.lorem-ipsum --profile Minimal
+code --install-extension tyriar.sort-lines --profile Minimal
+code --install-extension usernamehw.errorlens --profile Minimal
+code --install-extension yoavbls.pretty-ts-errors --profile Minimal
+code --install-extension zignd.html-css-class-completion --profile Minimal

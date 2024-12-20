@@ -1,0 +1,73 @@
+{
+  "window.zoomLevel": 0.8,
+  "window.commandCenter": false,
+  "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}",
+
+  "editor.fontSize": 13,
+  "editor.lineHeight": 1.5,
+  "editor.formatOnSave": true,
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.cursorBlinking": "phase",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.renderLineHighlightOnlyWhenFocus": true,
+  "editor.guides.highlightActiveIndentation": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "'MonoLisa Nerd Font Mono', 'Fira Code', Consolas, monospace",
+
+  "breadcrumbs.icons": false,
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.filePath": "last",
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.decorations.colors": false,
+
+  "workbench.layoutControl.type": "menu",
+  "workbench.activityBar.location": "hidden",
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.navigationControl.enabled": false,
+  "workbench.colorTheme": "Noir Tokyo Night Black",
+
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.lineHeight": 1.25,
+  "terminal.integrated.fontLigatures": true,
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font', 'MonoLisa Nerd Font Mono', 'Fira Code', Consolas, monospace",
+
+  "files.autoSave": "afterDelay",
+
+  "git.autofetch": true,
+  "git.confirmSync": false,
+
+  "prettier.singleQuote": true,
+
+  "chat.commandCenter.enabled": false,
+
+  "diffEditor.hideUnchangedRegions.enabled": true,
+
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/Haque/.vscode/vscode-custom/style.css",
+    "file:///C:/Users/Haque/.vscode/vscode-custom/script.js"
+  ],
+
+  "workbench.colorCustomizations": {
+    "terminal.background": "#090909",
+    "terminal.ansiBlack": "#212121",
+    "terminal.ansiBlue": "#82AAFF",
+    "terminal.ansiBrightBlack": "#4A4A4A",
+    "terminal.ansiBrightBlue": "#82AAFF",
+    "terminal.ansiBrightCyan": "#89DDFF",
+    "terminal.ansiBrightGreen": "#C3E88D",
+    "terminal.ansiBrightMagenta": "#C792EA",
+    "terminal.ansiBrightRed": "#F07178",
+    "terminal.ansiBrightWhite": "#FFFFFF",
+    "terminal.ansiBrightYellow": "#FFCB6B",
+    "terminal.ansiCyan": "#89DDFF",
+    "terminal.ansiGreen": "#C3E88D",
+    "terminal.ansiMagenta": "#C792EA",
+    "terminal.ansiRed": "#F07178",
+    "terminal.ansiWhite": "#EEFFFF",
+    "terminal.ansiYellow": "#FFCB6B"
+  }
+}
